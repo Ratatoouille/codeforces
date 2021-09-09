@@ -1,3 +1,3 @@
-<h2>Codeforces next round task</h2>
+<h2>Codeforces stacking with dominoes</h2>
 
-https://codeforces.com/problemset/problem/158/A
+https://codeforces.com/problemset/problem/50/A
