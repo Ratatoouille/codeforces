@@ -1,3 +1,3 @@
-<h2>Helpful Maths</h2>
+<h2>Boy or girl</h2>
 
-[task link](https://codeforces.com/problemset/problem/339/A)
+[task link](https://codeforces.com/problemset/problem/236/A)
